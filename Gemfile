@@ -40,6 +40,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'sdoc', '~> 0.4.2', group: :doc
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise', '~> 4.2', '>= 4.2.1'
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-turbolinks', '~> 2.1'
 
 group :development, :test do
   gem 'sqlite3'
